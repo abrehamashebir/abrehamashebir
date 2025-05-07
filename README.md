@@ -19,9 +19,9 @@ Hi there! I'm **ABREHAM ASHEBIR**, an aspiring **Data Sceintist** driven by a pa
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abreham-ashebir&show_icons=true&theme=tokyonight&hide=issues,contribs)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrehamashebir&show_icons=true&theme=tokyonight&hide=issues,contribs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abreham-ashebir&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrehamashebir&layout=compact&theme=tokyonight)
 
 ---
 
@@ -35,5 +35,5 @@ Hi there! I'm **ABREHAM ASHEBIR**, an aspiring **Data Sceintist** driven by a pa
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abreham-ashebir&repo=repo1&theme=tokyonight)](https://github.com/abreham-ashebir/LIB_PHONES_ST)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abreham-ashebir&repo=repo2&theme=tokyonight)](https://github.com/abreham-ashebir/Radiation_Data_Analysis)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abreham-ashebir&repo=repo1&theme=tokyonight)](https://github.com/abrehamashebir/LIB_PHONES_ST)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abreham-ashebir&repo=repo2&theme=tokyonight)](https://github.com/abrehamashebir/Radiation_Data_Analysis)
