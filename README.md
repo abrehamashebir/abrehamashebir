@@ -35,5 +35,5 @@ Hi there! I'm **ABREHAM ASHEBIR**, an aspiring **Data Sceintist** driven by a pa
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abrehamashebir&repo=repo1&theme=tokyonight)](https://github.com/abrehamashebir/LIB_PHONES_ST)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abrehamashebir&repo=repo2&theme=tokyonight)](https://github.com/abrehamashebir/Radiation_Data_Analysis)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abrehamashebir&repo=LIB_PHONES_ST&theme=tokyonight)](https://github.com/abrehamashebir/LIB_PHONES_ST)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abrehamashebir&repo=Radiation_Data_Analysis&theme=tokyonight)](https://github.com/abrehamashebir/Radiation_Data_Analysis)
