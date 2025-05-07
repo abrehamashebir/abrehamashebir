@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hi there! I'm **ABREHAM ASHEBIR**, an **Data Sceintist** driven by a passion for **[what motivates you: designing, building, and analayzing data** 🚀
+Hi there! I'm **ABREHAM ASHEBIR**, an aspiring **Data Sceintist** driven by a passion for **[what motivates you: designing, building, and analayzing data** 🚀
 
 ---
 
