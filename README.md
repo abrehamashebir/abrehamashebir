@@ -36,4 +36,4 @@ Hi there! I'm **ABREHAM ASHEBIR**, an aspiring **Data Sceintist** driven by a pa
 ## 📌 Pinned Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abrehamashebir&repo=LIB_PHONES_ST&theme=tokyonight)](https://github.com/abrehamashebir/LIB_PHONES_ST)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abrehamashebir&repo=solar-challenge-week1&theme=tokyonight)](https://github.com/abrehamashebir/solar-challenge-week1&)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abrehamashebir&repo=solar-challenge-week1&theme=tokyonight)](https://github.com/abrehamashebir/solar-challenge-week1)
