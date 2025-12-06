@@ -17,13 +17,6 @@ Hi there! I'm **ABREHAM ASHEBIR**, an aspiring **Data Sceintist** driven by a pa
 
 ---
 
-## 📊 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrehamashebir&show_icons=true&theme=tokyonight&hide=issues,contribs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrehamashebir&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Let's Connect
 
